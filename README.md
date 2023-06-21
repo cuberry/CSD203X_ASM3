@@ -1,4 +1,4 @@
-# **ASSIGNMENT 3 OF PYTHON DATABASE AND STRUCRURE**
+# **ASSIGNMENT 3 OF PYTHON DATABASE AND ALGORYTHM**
 
 ### **INTRODUCTION**
 Assignment 3 of this course is the order to process below requirements:
